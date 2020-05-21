@@ -1,0 +1,39 @@
+item {
+  id: 1
+  name: 'fpt1'
+}
+
+item {
+  id: 2
+  name: 'fpt2'
+}
+
+item {
+  id: 3
+  name: 'rpt1'
+}
+
+item {
+  id: 4
+  name: 'rpt2'
+}
+
+item {
+  id: 5
+  name: 'rept1'
+}
+
+item {
+  id: 6
+  name: 'rept2'
+}
+
+item {
+  id: 7
+  name: 'bpt1'
+}
+
+item {
+  id: 8
+  name: 'bpt2'
+}

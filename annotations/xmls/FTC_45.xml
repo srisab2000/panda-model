@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>FTC_45.jpg</filename>
+	<path>C:\Users\admin\Desktop\FTC\FTC DATASET\images\FTC_45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rpt2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>53</ymin>
+			<xmax>522</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>
